@@ -31,4 +31,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/abdessemedhoussem2004-design/abdessemedhoussem2004-design/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdessemedhoussem2004-design/abdessemedhoussem2004-design/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
