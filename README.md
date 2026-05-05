@@ -22,15 +22,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<h2 align="center">📊 GitHub Stats</h2>
+![](https://github-profile-trophy.vercel.app/?username=abdessemedhoussem2004-design&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdessemedhoussem2004-design&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessemedhoussem2004-design&layout=compact&theme=radical" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
